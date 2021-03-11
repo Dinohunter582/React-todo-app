@@ -12,3 +12,5 @@ then just start the server.js file in the backend
 and then start the web app with npm start 
 
 then your all set
+
+also used a .env file for the mongo connection 
